@@ -27,7 +27,8 @@
 <li>Implement patient capability to pay bills.</li>
 </ul>
 <h2>Getting Started</h2>
-<ul>
+<ul> 
+<li>Visit this public repository https://github.com/Sofia-S-S/DASAngular for setting up the client-side of the application.</li>
 <li>Install JDK version 1.8 locally and a Java IDE.</li>
 <li>Git clone this repository.</li>
 <li>Create a new Maven Project and choose to open the git clone.</li>
