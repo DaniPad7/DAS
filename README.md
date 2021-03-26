@@ -40,8 +40,8 @@
 </ul>
 <h2>Contributors</h2>
 <p><a href="https://github.com/GoldWayBear/">Jinwei Xiong</a></p>
-<p><a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a></p>
-<p><a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a></p>
+<p><a href="https://github.com/Sofia-S-S">Sofia Svergun</a></p>
+<p><a href="https://opensource.org/licenses/MIT">Michael Pearson</a></p>
 <h2>Licenses</h2>
 <p><a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a></p>
 <p><a href="https://www.apache.org/licenses/">https://www.apache.org/licenses/</a></p>
