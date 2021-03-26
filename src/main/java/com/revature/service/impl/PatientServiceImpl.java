@@ -195,7 +195,9 @@ public class PatientServiceImpl implements PatientService {
 	public User viewMyInfo(String username) throws NothingFoundException {
 		User patient = new User();
 		patient = userRepository.findPatientByUsername(username);
-		if(patient.getUserId() < 1) throw new NothingFoundException();
+		try {
+			if(patient.getUserId() < 1) throw new NothingFoundException();
+		}catch(NullPointerException e) {}
 		return patient;
 	}
 
