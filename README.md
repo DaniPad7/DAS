@@ -5,12 +5,16 @@
 <h2>Technologies Used</h2>
 <ul>
 <li>Java</li>
+ <li>Spring</li>
 <li>Apache Maven</li>
 <li>Spring Data JPA</li>
-<li>Postgresql</li>
+<li>PostgreSQL</li>
+<li>Hibernate</li>
 <li>JUnit</li>
+<li>Mockito</li>
 <li>Log4j</li>
-  <li>Git/Github</li>
+ <li>AspectJ</li>
+ <li>Git/Github</li>
 </ul>
 <h2>Features</h2>
 <h3>List of Features</h3>
