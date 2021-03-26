@@ -38,6 +38,10 @@
 <li>Create a new Maven Project and choose to open the git clone.</li>
 <li>Run the Spring Boot Application locally using an IDE or a terminal.</li>
 </ul>
+<h2>Contributors</h2>
+<p><a href="https://github.com/GoldWayBear/">Jinwei Xiong</a></p>
+<p><a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a></p>
+<p><a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a></p>
 <h2>Licenses</h2>
 <p><a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a></p>
 <p><a href="https://www.apache.org/licenses/">https://www.apache.org/licenses/</a></p>
